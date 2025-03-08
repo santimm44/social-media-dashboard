@@ -31,3 +31,4 @@ Things to turn in:
         Github
 
 ## Reviewed By
+Chris Wells-Hott: When I shrink down to Mobile theres a big gap between "Overview Today" and the upper cards. The Font-Family is not loading on my side other than that good work.
